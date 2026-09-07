@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\baseservices\\basefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.view\\views\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|solutionrelative:views\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.view\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|solutionrelative:extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.view\\catfactscaller.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DAD70AE-87E2-4D7E-8D14-9F21FEA0F12A}|CatFactsCaller.View.csproj|solutionrelative:catfactscaller.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\baseservices\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\interfaces\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\baseservices\\basejsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD560-F888-4AD1-9B5F-26C65042B3D6}|..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.context\\catfactscaller.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D32C85-E902-4AC4-AE1A-AF8A36C60CB2}|..\\CatFactsCaller.Domain\\CatFactsCaller.Domain.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.domain\\models\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B9000-894F-47ED-B1E0-F7EFB2E8A64E}|..\\CatFactsCaller.Contracts\\CatFactsCaller.Contracts.csproj|c:\\users\\admin\\desktop\\programowanie\\c#\\catfactscaller\\catfactscaller.contracts\\dtos\\responses\\catfactresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseFileService.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\BaseServices\\BaseFileService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseFileService.cs*",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\BaseServices\\BaseFileService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T14:06:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Views\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Views\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Views\\MainMenu.cs",
+              "RelativeToolTip": "Views\\MainMenu.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:54:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:35:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatFactsCaller.View",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\CatFactsCaller.View.csproj",
+              "RelativeDocumentMoniker": "CatFactsCaller.View.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\CatFactsCaller.View.csproj",
+              "RelativeToolTip": "CatFactsCaller.View.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T13:31:25.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.View\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:30:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Services\\CatFactService.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\Services\\CatFactService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Services\\CatFactService.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\Services\\CatFactService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:23:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\nlog.config",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\nlog.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\nlog.config",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-07T13:22:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatFactsCaller.Context",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\CatFactsCaller.Context.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T13:21:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:18:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatFact.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Domain\\Models\\CatFact.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Domain\\Models\\CatFact.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Domain\\Models\\CatFact.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Domain\\Models\\CatFact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:17:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatFactResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Contracts\\Dtos\\Responses\\CatFactResponse.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Contracts\\Dtos\\Responses\\CatFactResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Contracts\\Dtos\\Responses\\CatFactResponse.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Contracts\\Dtos\\Responses\\CatFactResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:12:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Interfaces\\ICatFactService.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\Interfaces\\ICatFactService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\Interfaces\\ICatFactService.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\Interfaces\\ICatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:11:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseJsonService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseJsonService.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\BaseServices\\BaseJsonService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseJsonService.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\BaseServices\\BaseJsonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:09:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseHttpService.cs",
+              "RelativeDocumentMoniker": "..\\CatFactsCaller.Context\\BaseServices\\BaseHttpService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programowanie\\C#\\CatFactsCaller\\CatFactsCaller.Context\\BaseServices\\BaseHttpService.cs",
+              "RelativeToolTip": "..\\CatFactsCaller.Context\\BaseServices\\BaseHttpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:08:19.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
